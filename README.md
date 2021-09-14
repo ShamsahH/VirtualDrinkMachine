@@ -1,2 +1,2 @@
-# VirtualDrinkMachine
+# Virtual Drink Machine
 
